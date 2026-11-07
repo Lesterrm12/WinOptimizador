@@ -1,0 +1,254 @@
+﻿{
+    "edgeupdate":  {
+                       "Start":  2,
+                       "DelayedAutoStartExists":  true,
+                       "DelayedAutoStart":  1,
+                       "WasRunning":  false
+                   },
+    "SensrSvc":  {
+                     "Start":  3,
+                     "DelayedAutoStartExists":  false,
+                     "DelayedAutoStart":  0,
+                     "WasRunning":  false
+                 },
+    "SensorDataService":  {
+                              "Start":  3,
+                              "DelayedAutoStartExists":  false,
+                              "DelayedAutoStart":  0,
+                              "WasRunning":  false
+                          },
+    "ShellHWDetection":  {
+                             "Start":  2,
+                             "DelayedAutoStartExists":  false,
+                             "DelayedAutoStart":  0,
+                             "WasRunning":  false
+                         },
+    "PhoneSvc":  {
+                     "Start":  3,
+                     "DelayedAutoStartExists":  false,
+                     "DelayedAutoStart":  0,
+                     "WasRunning":  false
+                 },
+    "RetailDemo":  {
+                       "Start":  3,
+                       "DelayedAutoStartExists":  false,
+                       "DelayedAutoStart":  0,
+                       "WasRunning":  false
+                   },
+    "MapsBroker":  {
+                       "Start":  2,
+                       "DelayedAutoStartExists":  true,
+                       "DelayedAutoStart":  1,
+                       "WasRunning":  false
+                   },
+    "XboxNetApiSvc":  {
+                          "Start":  3,
+                          "DelayedAutoStartExists":  false,
+                          "DelayedAutoStart":  0,
+                          "WasRunning":  false
+                      },
+    "RemoteAccess":  {
+                         "Start":  3,
+                         "DelayedAutoStartExists":  false,
+                         "DelayedAutoStart":  0,
+                         "WasRunning":  false
+                     },
+    "Fax":  {
+                "Start":  3,
+                "DelayedAutoStartExists":  false,
+                "DelayedAutoStart":  0,
+                "WasRunning":  false
+            },
+    "vmicvmsession":  {
+                          "Start":  3,
+                          "DelayedAutoStartExists":  false,
+                          "DelayedAutoStart":  0,
+                          "WasRunning":  false
+                      },
+    "GoogleChromeElevationService":  {
+                                         "Start":  3,
+                                         "DelayedAutoStartExists":  false,
+                                         "DelayedAutoStart":  0,
+                                         "WasRunning":  false
+                                     },
+    "WpcMonSvc":  {
+                      "Start":  3,
+                      "DelayedAutoStartExists":  false,
+                      "DelayedAutoStart":  0,
+                      "WasRunning":  false
+                  },
+    "TermService":  {
+                        "Start":  3,
+                        "DelayedAutoStartExists":  false,
+                        "DelayedAutoStart":  0,
+                        "WasRunning":  false
+                    },
+    "MicrosoftEdgeElevationService":  {
+                                          "Start":  3,
+                                          "DelayedAutoStartExists":  false,
+                                          "DelayedAutoStart":  0,
+                                          "WasRunning":  false
+                                      },
+    "TabletInputService":  {
+                               "Start":  3,
+                               "DelayedAutoStartExists":  false,
+                               "DelayedAutoStart":  0,
+                               "WasRunning":  true
+                           },
+    "XblGameSave":  {
+                        "Start":  3,
+                        "DelayedAutoStartExists":  false,
+                        "DelayedAutoStart":  0,
+                        "WasRunning":  false
+                    },
+    "vmicrdv":  {
+                    "Start":  3,
+                    "DelayedAutoStartExists":  false,
+                    "DelayedAutoStart":  0,
+                    "WasRunning":  false
+                },
+    "DiagTrack":  {
+                      "Start":  2,
+                      "DelayedAutoStartExists":  false,
+                      "DelayedAutoStart":  0,
+                      "WasRunning":  true
+                  },
+    "edgeupdatem":  {
+                        "Start":  3,
+                        "DelayedAutoStartExists":  false,
+                        "DelayedAutoStart":  0,
+                        "WasRunning":  false
+                    },
+    "vmicvss":  {
+                    "Start":  3,
+                    "DelayedAutoStartExists":  false,
+                    "DelayedAutoStart":  0,
+                    "WasRunning":  false
+                },
+    "XblAuthManager":  {
+                           "Start":  3,
+                           "DelayedAutoStartExists":  false,
+                           "DelayedAutoStart":  0,
+                           "WasRunning":  false
+                       },
+    "ScDeviceEnum":  {
+                         "Start":  3,
+                         "DelayedAutoStartExists":  false,
+                         "DelayedAutoStart":  0,
+                         "WasRunning":  false
+                     },
+    "GameInputSvc":  {
+                         "Start":  3,
+                         "DelayedAutoStartExists":  false,
+                         "DelayedAutoStart":  0,
+                         "WasRunning":  false
+                     },
+    "WerSvc":  {
+                   "Start":  3,
+                   "DelayedAutoStartExists":  false,
+                   "DelayedAutoStart":  0,
+                   "WasRunning":  false
+               },
+    "SEMgrSvc":  {
+                     "Start":  3,
+                     "DelayedAutoStartExists":  false,
+                     "DelayedAutoStart":  0,
+                     "WasRunning":  true
+                 },
+    "wisvc":  {
+                  "Start":  3,
+                  "DelayedAutoStartExists":  false,
+                  "DelayedAutoStart":  0,
+                  "WasRunning":  false
+              },
+    "SCardSvr":  {
+                     "Start":  3,
+                     "DelayedAutoStartExists":  false,
+                     "DelayedAutoStart":  0,
+                     "WasRunning":  false
+                 },
+    "Netlogon":  {
+                     "Start":  3,
+                     "DelayedAutoStartExists":  false,
+                     "DelayedAutoStart":  0,
+                     "WasRunning":  false
+                 },
+    "diagsvc":  {
+                    "Start":  3,
+                    "DelayedAutoStartExists":  false,
+                    "DelayedAutoStart":  0,
+                    "WasRunning":  false
+                },
+    "RemoteRegistry":  {
+                           "Start":  3,
+                           "DelayedAutoStartExists":  false,
+                           "DelayedAutoStart":  0,
+                           "WasRunning":  false
+                       },
+    "XboxGipSvc":  {
+                       "Start":  3,
+                       "DelayedAutoStartExists":  false,
+                       "DelayedAutoStart":  0,
+                       "WasRunning":  false
+                   },
+    "WalletService":  {
+                          "Start":  3,
+                          "DelayedAutoStartExists":  false,
+                          "DelayedAutoStart":  0,
+                          "WasRunning":  false
+                      },
+    "WSearch":  {
+                    "Start":  2,
+                    "DelayedAutoStartExists":  true,
+                    "DelayedAutoStart":  1,
+                    "WasRunning":  false
+                },
+    "diagnosticshub.standardcollector.service":  {
+                                                     "Start":  3,
+                                                     "DelayedAutoStartExists":  false,
+                                                     "DelayedAutoStart":  0,
+                                                     "WasRunning":  false
+                                                 },
+    "lmhosts":  {
+                    "Start":  3,
+                    "DelayedAutoStartExists":  false,
+                    "DelayedAutoStart":  0,
+                    "WasRunning":  false
+                },
+    "dmwappushservice":  {
+                             "Start":  3,
+                             "DelayedAutoStartExists":  false,
+                             "DelayedAutoStart":  0,
+                             "WasRunning":  false
+                         },
+    "SensorService":  {
+                          "Start":  3,
+                          "DelayedAutoStartExists":  false,
+                          "DelayedAutoStart":  0,
+                          "WasRunning":  false
+                      },
+    "XboxService":  {
+                        "Start":  3,
+                        "DelayedAutoStartExists":  false,
+                        "DelayedAutoStart":  0,
+                        "WasRunning":  false
+                    },
+    "SysMain":  {
+                    "Start":  2,
+                    "DelayedAutoStartExists":  false,
+                    "DelayedAutoStart":  0,
+                    "WasRunning":  false
+                },
+    "SNMPTRAP":  {
+                     "Start":  3,
+                     "DelayedAutoStartExists":  false,
+                     "DelayedAutoStart":  0,
+                     "WasRunning":  false
+                 },
+    "SCPolicySvc":  {
+                        "Start":  3,
+                        "DelayedAutoStartExists":  false,
+                        "DelayedAutoStart":  0,
+                        "WasRunning":  false
+                    }
+}

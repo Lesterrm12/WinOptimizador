@@ -1,0 +1,105 @@
+# ==============================================================================
+# CONFIGURACIÓN DE SERVICIOS PARA OPTIMIZADOR DINÁMICO
+# Formato: NombreInterno | ApodoDescriptivo
+# ==============================================================================
+
+[HOME]
+XblAuthManager | Administración de autenticación de Xbox Live
+MapsBroker | Administrador de mapas descargados
+lmhosts | Aplicación auxiliar de NetBIOS sobre TCP/IP
+SNMPTRAP | Captura de SNMP
+SessionEnv | Configuración de Escritorio remoto
+WpcMonSvc | Control parental
+ShellHWDetection | Detección de hardware shell (AutoPlay USB)
+SCPolicySvc | Directiva de extracción de tarjetas inteligentes
+RemoteAccess | Enrutamiento y acceso remoto
+DiagTrack | Experiencias del usuario y telemetría asociadas
+Fax | Fax
+GameInputSvc | GameInput Service (Soporte de mandos)
+GoogleChromeElevationService | Google Chrome Elevation Service
+WdiSystemHost | Host de sistema de diagnóstico
+WdiServiceHost | Host del servicio de diagnóstico
+MicrosoftEdgeElevationService | Microsoft Edge Elevation Service
+edgeupdate | Microsoft Edge Update Service (edgeupdate)
+edgeupdatem | Microsoft Edge Update Service (edgeupdatem)
+Netlogon | Net Logon (Red corporativa)
+XblGameSave | Partida guardada en Xbox Live
+RemoteRegistry | Registro remoto
+SensorDataService | Servicio de datos del sensor
+DPS | Servicio de directivas de diagnóstico
+dmwappushservice | Servicio de enrutamiento de mensajes de inserción del Protocolo de aplicación inalámbrica (WAP) de administración de dispositivos
+ScDeviceEnum | Servicio de enumeración de tarjetas inteligentes
+TabletInputService | Servicio de Panel de escritura a mano y teclado táctil
+RetailDemo | Servicio de prueba comercial (Demostración)
+XboxNetApiSvc | Servicio de red de Xbox Live
+SensorService | Servicio de sensores
+SensrSvc | Servicio de supervisión de sensores
+vmicrdv | Servicio de virtualización de Escritorio remoto de Hyper-V
+wisvc | Servicio de Windows Insider
+WerSvc | Servicio Informe de errores de Windows
+vmicvmsession | Servicio PowerShell Direct de Hyper-V
+diagnosticshub.standardcollector.service | Servicio Recopilador estándar de diagnóstico
+PhoneSvc | Servicio telefónico
+TermService | Servicios de Escritorio remoto
+vmicvss | Solicitante de instantáneas de volumen de Hyper-V
+SysMain | SysMain (Superfetch)
+SCardSvr | Tarjeta inteligente
+TapiSrv | Telefonía
+WSearch | Windows Search (Indexación)
+XboxGipSvc | Xbox Accessory Management Service
+
+[PRO]
+tzautoupdate | Actualizador de zona horaria automática
+XblAuthManager | Administración de autenticación de Xbox Live
+MapsBroker | Administrador de mapas descargados
+SEMgrSvc | Administrador de pagos y NFC/SE
+lmhosts | Aplicación auxiliar de NetBIOS sobre TCP/IP
+PeerDistSvc | BranchCache
+SNMPTRAP | Captura de SNMP
+SessionEnv | Configuración de Escritorio remoto
+WpcMonSvc | Control parental
+ShellHWDetection | Detección de hardware shell
+diagsvc | Diagnostic Execution Service
+SCPolicySvc | Directiva de extracción de tarjetas inteligentes
+RemoteAccess | Enrutamiento y acceso remoto
+DiagTrack | Experiencias del usuario y telemetría asociadas
+Fax | Fax
+WdiSystemHost | Host de sistema de diagnóstico
+WdiServiceHost | Host del servicio de diagnóstico
+vmicguestinterface | Interfaz de servicio invitado de Hyper-V
+MicrosoftEdgeElevationService | Microsoft Edge Elevation Service
+edgeupdate | Microsoft Edge Update Service (edgeupdate)
+edgeupdatem | Microsoft Edge Update Service (edgeupdatem)
+Netlogon | Net Logon
+XblGameSave | Partida guardada en Xbox Live
+RemoteRegistry | Registro remoto
+vmicshutdown | Servicio de cierre de invitado de Hyper-V
+DPS | Servicio de directivas de diagnóstico
+ScDeviceEnum | Servicio de enumeración de dispositivos de tarjeta inteligente
+HvHost | Servicio de host HV
+vmickvpexchange | Servicio de intercambio de datos de Hyper-V
+vmicheartbeat | Servicio de latido de Hyper-V
+TabletInputService | Servicio de Panel de escritura a mano y teclado táctil
+RetailDemo | Servicio de prueba comercial
+XboxNetApiSvc | Servicio de red de Xbox Live
+SensorService | Servicio de sensores
+vmictimesync | Servicio de sincronización de hora de Hyper-V
+SensrSvc | Servicio de supervisión de sensores
+vmicrdv | Servicio de virtualización de Escritorio remoto de Hyper-V
+wisvc | Servicio de Windows Insider
+WerSvc | Servicio Informe de errores de Windows
+vmicvmsession | Servicio PowerShell Direct de Hyper-V
+diagnosticshub.standardcollector.service | Servicio Recopilador estándar del concentrador de diagnósticos
+PhoneSvc | Servicio telefónico
+TermService | Servicios de Escritorio remoto
+vmicvss | Solicitante de instantáneas de volumen de Hyper-V
+SysMain | SysMain
+SCardSvr | Tarjeta inteligente
+TapiSrv | Telefonía
+Themes | Temas
+WalletService | WalletService
+MixedRealityOpenXRSvc | Windows Mixed Reality OpenXR Service
+WSearch | Windows Search
+wuauserv | Windows Update
+XboxGipSvc | Xbox Accessory Management Service
+XboxService | Xbox Service
