@@ -21,6 +21,23 @@ Diseñado con una interfaz en **Modo Oscuro**, tarjetas dinámicas con monitoreo
 
 ---
 
+## 🚀 Requisitos y Ejecución 
+
+1. Asegúrate de contar con Windows 10/11 (.NET Framework 4.0 o superior preinstalado).
+2. Descarga el proyecto manteniendo las carpetas assets y config junto a OptimizadorPro.exe.
+3. Ejecuta OptimizadorPro.exe como Administrador (indispensable para aplicar los cambios en los servicios y el Registro del sistema).
+
+---
+
+## 👤 Autor y Licencia
+
+* **Autor:** Lester R (Lester Rosado) — Desarrollo de software y diseño de interfaz.
+
+* **Licencia:** Uso gratuito personal (Freeware). Todos los derechos reservados. Queda prohibida su redistribución modificada o copia sin autorización del autor.
+
+---
+
+
 ## 📂 Estructura de Carpetas
 
 Para su correcto funcionamiento, mantén la siguiente estructura junto al ejecutable:
